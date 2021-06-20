@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "382077670429",
+    "project_id": "khair-jalees",
+    "storage_bucket": "khair-jalees.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382077670429:android:5d2c9141f97947f17be2f4",
+        "android_client_info": {
+          "package_name": "com.example.grad_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382077670429-8m8eo9d1uocscqml6v22pn9i579ro23s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4agrSoe4eMuk8WwEG7tZ93Km3VLferKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382077670429-8m8eo9d1uocscqml6v22pn9i579ro23s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
